@@ -1,0 +1,9 @@
+
+*.exe
+*.[oa]
+*.obj
+bin/
+obj/
+*.layout*
+*.depend
+*.save
